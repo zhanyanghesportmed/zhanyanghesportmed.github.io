@@ -1,0 +1,87 @@
+{
+  "verified_on": "2026-11-07",
+  "profile": "https://www.researchgate.net/profile/Zhanyang-He",
+  "google_scholar": "https://scholar.google.com/citations?user=t26btK0AAAAJ",
+  "google_scholar_note": "Direct automated retrieval was unavailable; retained as the author-supplied profile link. No citation metrics copied.",
+  "selection_note": "Seven representative publications; not a complete bibliography. The IMU paper uses its 2026 online-publication year.",
+  "publications": [
+    {
+      "id": "He2026IMU",
+      "year": 2026,
+      "online": true,
+      "topics": "measurement",
+      "title": "Validity and reliability of inertial measurement units on lower limb joint angles during landing and cutting tasks: A systematic review and meta-analysis",
+      "authors": "He, Zhanyang and Shen, Cuimei and Ye, Binyong and Zhu, Houwei",
+      "display": "Zhanyang He, Cuimei Shen, Binyong Ye, Houwei Zhu",
+      "journal": "Gait & Posture",
+      "doi": "10.1016/j.gaitpost.2026.110629",
+      "source": "https://www.sciencedirect.com/science/article/pii/S0966636226005400"
+    },
+    {
+      "id": "He2025Fatigue",
+      "year": 2025,
+      "topics": "injury",
+      "title": "Effects of different peripheral fatigue protocol on lower limb biomechanical changes during landing and its impact on the risk of anterior cruciate ligament injury: a systematic review",
+      "authors": "He, Zhanyang and Sun, Gang and Zhu, Houwei and Ye, Binyong and Zheng, Zhe and He, Xiaolong and Pan, Huiju",
+      "display": "Zhanyang He, Gang Sun, Houwei Zhu, Binyong Ye, Zhe Zheng, Xiaolong He, Huiju Pan",
+      "journal": "Frontiers in Bioengineering and Biotechnology",
+      "doi": "10.3389/fbioe.2025.1587573",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/40567252/"
+    },
+    {
+      "id": "Gao2025Swimming",
+      "year": 2025,
+      "topics": "performance",
+      "title": "Phase-specific determinants of 100 m freestyle performance in elite swimmers",
+      "authors": "Gao, Qing and He, Zhanyang and Liu, Gongju and Jin, Xun and Zhu, Houwei",
+      "display": "Qing Gao, Zhanyang He, Gongju Liu, Xun Jin, Houwei Zhu",
+      "journal": "Scientific Reports",
+      "doi": "10.1038/s41598-025-02814-1",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/40461524/"
+    },
+    {
+      "id": "He2025Unanticipated",
+      "year": 2025,
+      "topics": "injury",
+      "title": "Impact of unanticipated and backhand area smash landing on the lower limb biomechanics of female badminton players",
+      "authors": "He, Zhanyang and Fang, Zeqi and Ye, Haoxiang and Su, Sujing",
+      "display": "Zhanyang He, Zeqi Fang, Haoxiang Ye, Sujing Su",
+      "journal": "Frontiers in Bioengineering and Biotechnology",
+      "doi": "10.3389/fbioe.2025.1609911",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/40521101/"
+    },
+    {
+      "id": "He2025Cervical",
+      "year": 2025,
+      "topics": "measurement",
+      "title": "Effects of Neutral Postures on Mechanical Properties of Cervical Spine Under Different Gravitational Environments: A Musculoskeletal Model Study",
+      "authors": "He, Zhanyang and Zhang, Bin and Ye, Binyong and Song, Zhanbing and Mei, Qiang and Xu, Jiahao and Zhu, Houwei",
+      "display": "Zhanyang He, Bin Zhang, Binyong Ye, Zhanbing Song, Qiang Mei, Jiahao Xu, Houwei Zhu",
+      "journal": "Life",
+      "doi": "10.3390/life15030447",
+      "source": "https://www.mdpi.com/2075-1729/15/3/447"
+    },
+    {
+      "id": "He2024CAI",
+      "year": 2024,
+      "topics": "injury",
+      "title": "Does chronic ankle instability patients lead to changes in biomechanical parameters associated with anterior cruciate ligament injury during landing? A systematic review and meta-analysis",
+      "authors": "He, Zhanyang and Zhu, Houwei and Ye, Binyong and Zheng, Zhe and Liu, Gongju and Pan, Huiju and Liu, Ronghua",
+      "display": "Zhanyang He, Houwei Zhu, Binyong Ye, Zhe Zheng, Gongju Liu, Huiju Pan, Ronghua Liu",
+      "journal": "Frontiers in Physiology",
+      "doi": "10.3389/fphys.2024.1428879",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/39268191/"
+    },
+    {
+      "id": "He2024Badminton",
+      "year": 2024,
+      "topics": "injury",
+      "title": "Impact of specialized fatigue and backhand smash on the ankle biomechanics of female badminton players",
+      "authors": "He, Zhanyang and Liu, Gongju and Zhang, Bin and Ye, Binyong and Zhu, Houwei",
+      "display": "Zhanyang He, Gongju Liu, Bin Zhang, Binyong Ye, Houwei Zhu",
+      "journal": "Scientific Reports",
+      "doi": "10.1038/s41598-024-61141-z",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/38704481/"
+    }
+  ]
+}
